@@ -1,10 +1,10 @@
 # AI-103 Exam Labs
 
-This repository contains the practical lab exercises and demonstration code used for the AI-103 exam preparation. It provides hands-on demos that illustrate key concepts and services covered in the course, along with runnable Python examples for experimenting locally.
+This repository contains the practical lab exercises and demonstration code used for the AI-103 exam preparation. It provides hands-on demos illustrating key concepts and services covered in the course, along with runnable Python examples for local experimentation.
 
 ---
 
-[![Create Your First MCP Server](https://img-c.udemycdn.com/course/480x270/7149081_f2e6_7.jpg?w=640&q=75)](https://www.udemy.com/course/ai-103-azure-ai-apps-agents-developer-associate-exam-prep)
+[![AI-103 Exam Pep](https://img-c.udemycdn.com/course/750x422/7149081_f2e6_15.jpg)](https://www.udemy.com/course/ai-103-azure-ai-apps-agents-developer-associate-exam-prep/?referralCode=716F79763A07B159C921)
 
 Overview
 - Purpose: practical, exam-oriented labs with concise demos to reinforce AI-103 topics.
